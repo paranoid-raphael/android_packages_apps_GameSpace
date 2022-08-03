@@ -41,8 +41,6 @@
     <string name="fps_Info_title">FPS Info</string>
     <string name="stay_awake_title">Stay awake</string>
     <string name="stay_awake_summary">Keep screen awake while in the game</string>
-    <string name="lock_gesture_title">Lock gesture</string>
-    <string name="lock_gesture_summary">Disable navigation gestures (swipe back and home) while in-game</string>
 
     <!-- Notification Mode -->
     <string name="notification_mode_title">Notification mode</string>
